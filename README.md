@@ -7,7 +7,7 @@
 ----------------------------
 
 
-# Priscoacústica
+# Psicoacústica
 
 ### Direccionalidad
 ### Efecto Hass
