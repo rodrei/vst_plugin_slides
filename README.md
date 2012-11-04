@@ -1,73 +1,53 @@
-Desarrollo de complemento VST para producción de mezclas 5.1
-============================================================
+# Desarrollo de complemento VST para producción de mezclas 5.1
 
-Rodrigo Pavano
---------------
-
-----------------------------
 ----------------------------
 
 # Acustica Física
 
 ----------------------------
-----------------------------
 
 
 # Priscoacústica
 
-## Direccionalidad
-## Efecto Hass
+### Direccionalidad
+### Efecto Hass
 
-----------------------------
-----------------------------
+### Espacialidad
+* Distancia
+* Reflexiones tempranas
+* Reverberacion
 
-# Espacialidad
+### Campo sonoro
 
-## Distancia
-## Reflexiones tempranas
-## Reverberacion
-
-----------------------------
-----------------------------
-
-# Campo sonoro
-
-----------------------------
 ----------------------------
 
 # Audio Digital
 
-Variaciones de presion
-Microfono
-Variaciones de tensión
-Conversor analógico-digital
-Sonido digital
+* Variaciones de presion
+* Microfono
+* Variaciones de tensión
+* Conversor analógico-digital
+* Sonido digital
 
-## Frecuencia de Muestreo
+### Frecuencia de Muestreo
 
-## Profundiad de bits
+### Profundiad de bits
 
 # VST
 
 ----------------------------
-----------------------------
 
 # Desarrollo
 
+### Modulos
+* Panorama
+* Retardos ( Delay )
+* Reverberación
+  * Filtro Comb
+  * Filtro Allpass
+  * Estructura Freeverb
 
-## Modulos
-
-## Estructura Gral
-
-# Panorama
-
-# Retardos ( Delay )
-
-# Reverberación
-
-## Filtro Comb
-## Filtro Allpass
-## Estructura Freeverb
+### Estructura Gral
 
 # Interfaz
 
